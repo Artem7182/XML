@@ -1,10 +1,14 @@
+<?xml version="1.0"?>
 <bug>
-<Summary>Сместился фон кнопки [Login] на главной странице сайта GreenForest</Summary>
+<id>1</id>
+<Summary>Зеленый фон кнопки [Login] сместился относительно надписи Login</Summary>
 <Environment>браузер Google Chrome v не ниже 100., браузер Firefox v не ниже 100</Environment>
-<Description>Фон кнопки [Login] сместился</Description>
+<Description>Сместился зеленый фон кнопки [Login] на главной странице сайта GreenForest</Description>
 <Severity>Minor</Severity>
-<STR>1. Открыть страницу сайта GreenForest,
-        2. Фон кнопки [Login] сместился вверх экрана</STR>
+<STR>
+	<1> Открыть страницу сайта GreenForest</1>
+    <2> Фон кнопки [Login] сместился вверх экрана</2>
+</STR>
 <Expexted result>Название кнопки [Login] расположено на зеленом фоне</Expexted result>
 <Result>Зеленый фон кнопки [Login] сместился вверх экрана см. вложение</Result>
 <Attachments>скриншот главной страницы сайта Greenforest.png</Attachments>
